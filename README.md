@@ -1,2 +1,5 @@
 # Learn-to-work-with-GitHub
-I am an amateur
+
+Hi Guys
+How Are You?
+I am happy beacouse of learning GitHub
